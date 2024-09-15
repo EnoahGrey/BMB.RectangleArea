@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enoah\\source\\repos\\BMB.RectangleArea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE19A745-0DA6-4953-A5CC-3A65695A66A1}|BMB.RectangleArea\\BMB.RectangleArea.vcxproj|C:\\Users\\enoah\\source\\repos\\BMB.RectangleArea\\BMB.RectangleArea\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE19A745-0DA6-4953-A5CC-3A65695A66A1}|BMB.RectangleArea\\BMB.RectangleArea.vcxproj|solutionrelative:BMB.RectangleArea\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\enoah\\source\\repos\\BMB.RectangleArea\\BMB.RectangleArea\\Main.cpp",
+              "RelativeDocumentMoniker": "BMB.RectangleArea\\Main.cpp",
+              "ToolTip": "C:\\Users\\enoah\\source\\repos\\BMB.RectangleArea\\BMB.RectangleArea\\Main.cpp",
+              "RelativeToolTip": "BMB.RectangleArea\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T03:50:38.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
